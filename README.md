@@ -23,13 +23,38 @@ You need to follow a few steps before running the script:
 
 If you're not experienced in bash/zsh/other shell scripting, the above may be intimidating, but:
 
-## The "too long didn't read" **(tl;dr)** is that for most users you can likely just run (once you've downloaded the script and granted execute permissions):
+# The "too long didn't read" **(tl;dr)** is follow the steps below:
 
-```
-./run_warsim.sh
-```
+![Step 1](instruction-images/step1.png "Step 1")
+<br /><br /><br />
 
-Or replace the `.` above with the directory in which the run_warsim.sh script resides.
+---
+
+<br /><br /><br />
+![Step 2](instruction-images/step2.png "Step 2")
+<br /><br /><br />
+
+---
+
+<br /><br /><br />
+![Step 3](instruction-images/step3.png "Step 3")
+<br /><br /><br />
+
+---
+
+<br /><br /><br />
+![Step 4](instruction-images/step4.png "Step 4")
+<br /><br /><br />
+
+---
+
+<br />v<br /><br />
+![Step 5](instruction-images/step5.png "Step 5")
+<br /><br /><br />
+
+---
+
+<br /><br /><br />
 
 Should the above fail, then probably one or more of the variables needs to be set, or a different version of one of the apps involved breaks this script. I have only tested this script on Crossover 21.1, on MacOS 12.2.1, with Warsim Beta 0.8.4.8 and a Windows 7 64-bit Crossover bottle. It's possible with other releases of any of these, different names/paths/something else may cause the script to break. You can email me at mwrynn-at-gmail-dot-com if you need any help. Can't guarantee fixing this script will be a top priority at any given time, though.
 
