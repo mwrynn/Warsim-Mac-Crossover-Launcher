@@ -1,6 +1,10 @@
 # Warsim-Mac-Crossover-Launcher
 This is a simple script called `run_warsim.sh` that you can run to launch `Warsim: The Realm of Aslona` on MacOS using Crossover. It took me a couple of hours to figure out how to do this, so I thought I'd share it with the world to help out fellow Mac/Crossover users who want to play this neat game.
 
+To download the script, you can click on the file `run_warsim.sh` here in Github, then right-click on "Raw" and "Save Link As" to download the file. If the file doesn't already have execute permissions, you can set that by running `chmod +x run_warsim.sh`.
+
+Alternatively you can clone the Github repo, and if you know what that means, you probably already know how to do it. :) 
+
 To run the script, you must have Crossover already installed. It may be possible to run this script with WINE and NOT Crossover, perhaps with slight modification, but I do not know.
 
 You need to follow a few steps before running the script:
@@ -19,7 +23,7 @@ You need to follow a few steps before running the script:
 
 If you're not experienced in bash/zsh/other shell scripting, the above may be intimidating, but:
 
-## The "too long didn't read" **(tl;dr)** is that for most users you can likely just run:
+## The "too long didn't read" **(tl;dr)** is that for most users you can likely just run (once you've downloaded the script and granted execute permissions):
 
 ```
 ./run_warsim.sh
