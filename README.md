@@ -54,7 +54,10 @@ If you're not experienced in bash/zsh/other shell scripting, the above may be in
 
 ---
 
+<br />v<br /><br />
+![Step 6](instruction-images/step6.png "Step 6")
 <br /><br /><br />
+
 
 Should the above fail, then probably one or more of the variables needs to be set, or a different version of one of the apps involved breaks this script. I have only tested this script on Crossover 21.1, on MacOS 12.2.1, with Warsim Beta 0.8.4.8 and a Windows 7 64-bit Crossover bottle. It's possible with other releases of any of these, different names/paths/something else may cause the script to break. You can email me at mwrynn-at-gmail-dot-com if you need any help. Can't guarantee fixing this script will be a top priority at any given time, though.
 
